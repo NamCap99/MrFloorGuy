@@ -1,0 +1,369 @@
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Open Sans";
+    line-height: 1.6;
+    font-size: 16px;
+    font-weight: 400;
+    color: #404040;
+}
+/* HEADER */
+
+.header__content ul li a:hover {
+  color: blue;
+}
+
+header img {
+  width: 145px;
+}
+
+#inner__content__18__7 {
+  padding-top: 0;
+}
+.ct__inner__content {
+  width: 100%;
+}
+
+/* ct__section for all body */
+.ct__section{
+  width: 100%;
+  background-size:cover;
+  background-repeat: repeat;
+}
+
+#section__10__49, #section__496__105{
+  width: 1903px;
+  height: 464px
+}
+
+/* Website Header */
+#section__2__49{
+  background-image: url(../img/HeaderImg.jpg);
+  text-align: center;
+  background-repeat: no-repeat;
+  height: 430px;
+}
+
+#section__2__49>.ct__section__inner__wrap {
+  padding-top: 112px;
+  padding-bottom: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ct__section__inner__wrap {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#text__block__6__49{
+  color: #000000;
+  margin-top: 7px;
+  width: 60%;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+#text__block__6__49 div{
+  margin-bottom: 20px;
+}
+
+
+#link__button, #link__button__620__214 {
+  font-size: 18px;
+  font-family: 'Open Sans';
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 11px;
+  background-color: #2059aa;
+  border: 1px solid #2059aa;
+}
+
+.ct__link__button{
+  color: white;
+  text-decoration: none;
+}
+
+/* section about Information like Call Now, Email Us, Address */
+#section__14__10{
+  background-color: #fff;
+  border-top-width: 10px;
+  border-right-width: 10px;
+  border-bottom-width: 10px;
+  border-left-width: 10px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: #ef6c00;
+}
+
+#section__14__10>.ct__section__inner__wrap {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#new_columns__15__10{
+  background-color: #fff;
+  padding-bottom: 0;
+}
+
+.ct__new__columns {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#div__block__25__10 {
+  width: 33.33%;
+  flex-direction: row;
+  display: flex;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+#div__block__29__10 {
+  background-color: #ef6c00;
+  flex-direction: column;
+  text-align: left;
+  display: flex;
+  padding-top: 6px;
+}
+
+#fancy__icon__30__10 {
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  color: #fff;
+}
+
+.ct__fancy__icon>i::before {
+  font-size:35px
+}
+
+.ct__div__block{
+  display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+#div__block__32__10 {
+  align-items: center;
+  text-align: center;
+}
+
+#text__block__62__10 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #848484;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-left: 45px;
+}
+
+#link__text__478__10 {
+  font-weight: 600;
+  color: #2058a9;
+  padding-left: 45px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+/* Floor Sanding Service */
+#section__10__49>.ct__section__inner__wrap {
+  padding-top: 33px;
+  padding-right: 0;
+  padding-bottom: 43px;
+}
+
+#div__block__12__49{
+  width: 50%;
+  margin-bottom: 0;
+  padding-top: 16px;
+  padding-bottom: 7px;
+  padding-right: 14px;
+}
+
+#div__block__13__49 {
+  background-size: cover;
+  width: 50%;
+  padding-bottom: 0;
+  padding-left: 0;
+  background-repeat: no-repeat;
+  padding-top: 0;
+  justify-content: center;
+  padding-right: 20px
+}
+
+.ct__new__columns>.ct__div__block {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+#code__block__14__49{
+  margin-top:28px
+}
+
+#text__block__15__49{
+  margin-top: 0;
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 14px;
+}
+
+#div__block__13__49 {
+  background-size: cover;
+  width: 50%;
+  padding-bottom: 0;
+  padding-left: 0;
+  background-repeat: no-repeat;
+  padding-top: 0;
+  justify-content: center;
+}
+
+#code__block__621__214 {
+  width: 100%;
+}
+
+/* Give a new Life to your floor */
+#section__496__105{
+  box-shadow: 1px 1px 5px 3px rgba(0,0,0,.21);
+}
+
+#section__496__105>.ct__section__inner__wrap {
+  padding-top: 74px;
+}
+
+#div__block__502__105 {
+  background-image: url(../img/floorImg1.jpg);
+  background-size: cover;
+  width: 50%;
+  background-repeat: no-repeat;
+  padding-top: 294px;
+}
+
+#div_block__498__105 {
+  width: 50%;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#code__block__519__105 {
+  margin-top: 19px;
+}
+
+/* Why Choose iDry Restoration? */
+#section__387__49>.ct__section__inner__wrap {
+  padding-top: 84px;
+  padding-bottom: 65px;
+}
+
+#div_block__390__49 {
+  background-image: url(../img/floorImg3.jpg);
+  background-size: cover;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+}
+
+#div_block__389__49 {
+  width: 50%;
+  padding-bottom: 0;
+}
+
+#code__block__391__49 {
+  width: 80%;
+  padding-bottom: 13px;
+  padding-top: 0;
+}
+
+#text_block-392-49 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  line-height: 2;
+}
+
+#div_block__390__49{
+  height: 528px
+}
+
+/* Pricing For Our High Quality Floor Sanding Service */
+#section__588__105>.ct__section__inner__wrap {
+  padding-top: 23px;
+  padding-bottom: 43px;
+}
+
+#new__columns__589__105 {
+  padding-left: 0;
+}
+
+#div__block__590__105 {
+  width: 100%;
+  padding-bottom: 52px;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  align-items: center;
+  text-align: center;
+}
+
+#code__block__591__105 {
+  width: 80%;
+  padding-bottom: 13px;
+}
+
+#text__block__592__105 {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+#rich__text__617__214 {
+  padding-top: 0;
+  padding-left: 0;
+  text-align: left;
+}
+
+/* COPY RIGHT */
+#section__81__7 {
+  background-color: #363638;
+  text-align: center;
+}
+
+#section__81__7>.ct__section__inner__wrap {
+  padding-top: 25px;
+  padding-bottom: 27px;
+  align-items: center;
+}
+
+#text__block__82__7 {
+  color: #f7f7f7;
+  font-size: 12px;
+}
+
+.ct-span {
+  display: inline-block;
+  text-decoration: inherit;
+}
